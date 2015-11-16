@@ -1,0 +1,23 @@
+name: jillysp
+favicon: null
+layout_spectrum: 0.22187869483605027
+typography_spectrum: 0.44986526970751584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3996544105466455
+  lightness: 0.8539135842584074
+  saturation: 0.2745299516245723
+  rhythmicContrast: 0.7504197845701128
+purpose: []
